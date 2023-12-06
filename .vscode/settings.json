@@ -4,5 +4,7 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "salesforcedx-vscode-apex.java.home": ""
+  "salesforcedx-vscode-apex.java.home": "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home",
+  "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+  "salesforcedx-vscode-core.enable-sobject-refresh-on-startup": true
 }
