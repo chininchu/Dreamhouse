@@ -1,2 +1,2 @@
-trigger AccountAddressTrigger on SOBJECT(before insert) {
+trigger AccountAddressTrigger on Account(before insert, before update) {
 }
